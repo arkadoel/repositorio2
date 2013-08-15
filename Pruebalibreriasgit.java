@@ -11,10 +11,10 @@ import org.eclipse.jgit.lib.Repository;
 public class Pruebalibreriasgit {
 
     /**
+	 * muchos cambios fueron realizados
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Repository repo = new Repository()
-        Git a = new Git(null);
+        
     }
 }
